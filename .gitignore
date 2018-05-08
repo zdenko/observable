@@ -3,3 +3,8 @@ coverage/
 dist/
 docs/
 node_modules/
+bin/
+test/samples/*.js
+test*.*
+o_0.js
+yarn.lock
